@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    registry = "kashameni12345/BuildDocker-new"
+    registry = "narendar12345/jenkinspipeline123"
     registryCredential = 'docker-creds'
     dockerImage = ''
   }
